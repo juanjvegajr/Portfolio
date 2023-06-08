@@ -15,3 +15,6 @@ This repsitory contains code for the following projects
     + Analysis on cases, testing, recovery, and deaths on 231 countries.
     + Analysis on over 1 million anonymous patient records from the Mexican Government.
     + Tableau visualization was created for this analysis: https://public.tableau.com/app/profile/juan.vega6160/viz/COVIDWorldwideData/Dashboard1
+* **Insurance Phone Line Dashboard (YoY)**
+    + Dashboard on YoY call data from a company's insurance phone line.
+    + Executive summary of call data and metrics.
