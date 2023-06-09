@@ -1,5 +1,5 @@
 # Portfolio
-Collection of all the SQL projects and training I have completed.
+Collection of all SQL and Excel projects and training I have completed.
 
 This repsitory contains code for the following projects
 * **Bellabeats**
